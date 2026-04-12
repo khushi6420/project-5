@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace ;
+    color: white
+}
+
+html,
+body{
+    height:100%;
+    width: 100%;
+}
+
+body{
+    background-color: black;
+}
+
+#box{
+    height: 200px;
+    width: 200px;
+    background-color: transparent;
+    font-size: 20px;
+    border-radius: 50%;
+    border: 6px solid rgb(251, 242, 242)
+}
+button{
+    color: black
+}
